@@ -1,1 +1,1 @@
-# jsProhectsForBeginners
+# jsProjectsForBeginners
