@@ -20,4 +20,6 @@ body {
 
 #btn {
     font-size: 25px;
+    background: none;
+    border-radius: 5%;
 }
